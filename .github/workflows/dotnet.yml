@@ -31,4 +31,4 @@ jobs:
         # Artifact name
         name: UnSealer
         # Destination path
-        path: UnSealer\bin
+        path: UnSealer\
